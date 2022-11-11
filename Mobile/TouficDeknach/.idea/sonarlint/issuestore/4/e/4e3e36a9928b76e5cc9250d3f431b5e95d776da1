@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àâ‹úÿÿÿÿ
+g	java:S116"RRename this field "Version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¼õÅ
+h	java:S116"SRename this field "DTP_logo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í†Æ§
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¶´Í
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òü²ú
+c	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÓµ
+P
+java:S1128"5Remove this unused import 'java.nio.file.WatchEvent'.(¶Óªºÿÿÿÿÿ

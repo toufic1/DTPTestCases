@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="ExtentReporterNG.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Toufic/Desktop/Udemy/AVTestCases">
+        <classes>
+            <class name="AVUTCSupport.TestCase1"/>
+            <class name="WeatherWidgetTest.WeatherWidget_TC05"></class>
+            <class name="AV_Runway_In_Use_conflict1.AV_Runway_In_Use_conflictTC025"></class>
+            <class name="AV_Runway_In_Use_conflict1.TC026"></class>
+            <class name="AV_Runway_In_Use_conflict1.Tc_027"></class>
+            <class name="AV_Runway_In_Use_conflict1.TC_028"></class>
+            <class name="AV_Runway_In_Use_conflict1.TC_029"></class>
+        </classes>
+    </test>
+    
+  
+
+</suite>
