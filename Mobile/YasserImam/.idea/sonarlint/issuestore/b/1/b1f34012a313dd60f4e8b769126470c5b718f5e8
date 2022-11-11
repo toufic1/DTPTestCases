@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õç‘ìþÿÿÿÿ
+O
+java:S2387"4"driver" is the name of a field in "AndroidActions".(âªõòÿÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(„—ó—øÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¾ÚÉ—ýÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(¡š›¶
+I
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›
+L
+java:S1128"6Remove this unused import 'java.awt.font.TextHitInfo'.(§×Ï

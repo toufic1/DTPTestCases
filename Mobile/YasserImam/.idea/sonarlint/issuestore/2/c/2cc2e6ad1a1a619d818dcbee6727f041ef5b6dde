@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õç‘ìþÿÿÿÿ
+O
+java:S2387"4"driver" is the name of a field in "AndroidActions".(âªõòÿÿÿÿÿ
+’
+java:S1130Y"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¹ÇÂ­ÿÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(‰Ë™Þÿÿÿÿÿ
+U
+java:S1874^":Remove this use of "AndroidTouchAction"; it is deprecated.(à¿“ñýÿÿÿÿ

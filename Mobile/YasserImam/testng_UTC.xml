@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Yasser/Desktop/DTP/AirportViewTest/src/test/java/AV_UTC_Support/AV_UTC_Support.java">
+        <classes>
+            <class name="AV_UTC_Support.AV_UTC_Support">
+                <methods>
+                    <include name="UTCExists"/>
+                    <include name="UTCisOff"/>
+                    <include name="UTCClick"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
